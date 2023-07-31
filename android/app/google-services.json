@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776184762279",
+    "project_id": "bluecoin-9af7d",
+    "storage_bucket": "bluecoin-9af7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776184762279:android:7162a17d78840014397082",
+        "android_client_info": {
+          "package_name": "com.mmm.metricsmeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776184762279-ge1rk7lq92tbeh2lnucaksulb9o84r0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_5xt2PcgemhxInFEHK92mXItwAhEyWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776184762279-ge1rk7lq92tbeh2lnucaksulb9o84r0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
