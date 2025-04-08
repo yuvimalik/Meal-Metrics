@@ -1,16 +1,13 @@
 # metricsmeal
 
-A new Flutter project.
+A flutter app to help dining halls track and optimize their food wastage. Built by 3 students during the M&T summer program in 4 days. 
 
-## Getting Started
+##
 
-This project is a starting point for a Flutter application.
+Our app is connected centrally to a Firebase server that collects data from our backend model. This model is responsible for the physical product. It weighs the product, takes a photo and then 
+identifies the food that has been wasted (could be multiple or more).
 
-A few resources to get you started if this is your first Flutter project:
+For more information, check out this video - https://youtu.be/RWbZUrD-UHY. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Best, 
+Yuv
